@@ -1,4 +1,4 @@
-<h1 align= width="30" /> Hi, I'm Abduraxmon</h1>
+<h1 align="center" width="30" /> Hi, I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
 
 
