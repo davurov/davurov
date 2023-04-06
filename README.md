@@ -2,7 +2,7 @@
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> </p/p/p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> </p>
  
  <img align='right' src="https://user-images.githubusercontent.com/113560218/230291352-1aad3935-df35-47f3-a6cf-45a0a78a1b3a.gif" width="230"> </p>
 
