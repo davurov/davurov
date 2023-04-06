@@ -16,9 +16,9 @@
 
 <h3 align="left">Technologies and Tools:</h3>
 <p style="text-align:left">
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" height="30" width="30" /></a>
 <a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
-<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="C++" height="30" width="30" /></a>
+<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" height="30" width="30" /></a>
+<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230285938-c7233163-590a-46db-8382-bb48e6582326.jpeg" alt="swiftUI" height="30" width="30" /></a>
 </p>
 <hr></hr>
 
