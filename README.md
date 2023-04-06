@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> </p/p/p/p/p>
  
- <img align='right' src="https://user-images.githubusercontent.com/113560218/230291352-1aad3935-df35-47f3-a6cf-45a0a78a1b3a.gif" width="230"> </p>
+ <img align='right' src="https://user-images.githubusercontent.com/113560218/230295129-d32dee80-c26d-4104-9033-a190747498ed.gif" width="230"> </p>
 
 
 - 🌱 I’m currently learning <strong>Swift / IOS Development</strong>.
