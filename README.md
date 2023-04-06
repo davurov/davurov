@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/abduramon-davurov-618389257/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/bilgecakar/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>
 </p>
 
 
