@@ -12,11 +12,9 @@
 <p style="text-align:left">
 <a href="https://www.linkedin.com/in/abduramon-davurov-618389257/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p style="text-align:left">
 <a href="https://www.linkedin.com/in/abduramon-davurov-618389257/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
 </p>
+
 
 
 <!---
