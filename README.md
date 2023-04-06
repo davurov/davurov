@@ -1,7 +1,7 @@
 <h1 align="center" width="30" /> 👨‍💻 Hi,I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="230"> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://user-images.githubusercontent.com/113560218/230289105-a8249ba8-4d1a-4cbe-affd-471187d0ef2d.gif" width="230"> </p>
 
 
 
