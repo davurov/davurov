@@ -1,5 +1,6 @@
-<h1 align="center" width="30" /> 👨‍💻 Hi,I'm Abduraxmon</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295129-d32dee80-c26d-4104-9033-a190747498ed.gif" width="30" /> Hi, I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> </p/p/p/p/p>
