@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295129-d32dee80-c26d-4104-9033-a190747498ed.gif" width="30" /> Hi, I'm Abduraxmon</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
 
 
