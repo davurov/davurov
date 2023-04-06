@@ -26,6 +26,10 @@
 
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davurov&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="davurov" width="50%" /></p>
+ 
+ <div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgecakar" alt="bilgecakar" /> </p>
+ </div>
 
 <!---
 davurov/davurov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
