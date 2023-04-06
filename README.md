@@ -1,13 +1,13 @@
 <h1 align="center" width="30" /> 👨‍💻 Hi,I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://user-images.githubusercontent.com/113560218/230291352-1aad3935-df35-47f3-a6cf-45a0a78a1b3a.gif" width="230"> </p/p>
-
+</p>
 
 
 - 🌱 I’m currently learning <strong>Swift / IOS Development</strong>.
 - 📫 How to reach me  **davurovabduraxmon7@gmail.com**
 - ❓ Ask me about IOS Development and Swift.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davurov&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://user-images.githubusercontent.com/113560218/230291352-1aad3935-df35-47f3-a6cf-45a0a78a1b3a.gif" width="230"> </p>
 
 
 <h3 align="left">Connect with me:</h3>
