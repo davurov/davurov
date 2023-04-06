@@ -1,4 +1,4 @@
-<h1 align="center"<img src="https://media.giphy.com/media/OhkMiKX0uMmLC/giphy.gif" width="30" /> Hi, I'm Abduraxmon</h1>
+<h1 align="center" width="30" /> 👨‍💻 Hi,I'm Abduraxmon</h1>
 <h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
 
 
