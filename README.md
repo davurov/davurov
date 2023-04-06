@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @davurov
+**Hi, I'm Abduraxmon 👨‍💻🌏**
+
+
 - 👀 I’m interested in ios developing
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on learning Swift
