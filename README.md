@@ -28,11 +28,6 @@
 <a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230285938-c7233163-590a-46db-8382-bb48e6582326.jpeg" alt="swiftUI" height="30" width="30" /></a>
 </p>
 <hr></hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davurov&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
-
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davurov&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
  
  <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davurov" alt="davurov" /> </p>
